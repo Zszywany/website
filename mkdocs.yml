@@ -1,0 +1,7 @@
+site_name: Szyw's World
+site_url: https://blog.szyw.org
+theme:
+  name: material
+nav:
+- Home: index.md
+- About: about.md
