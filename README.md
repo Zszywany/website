@@ -6,5 +6,5 @@ Techonologies used:
 - mkdocs-material
 
 # TODO
-- [ ] Add LICENSE
+- [x] Add LICENSE
 - [ ] Set up pipeline for publishing
