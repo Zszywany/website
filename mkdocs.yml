@@ -4,7 +4,7 @@ plugins:
   - blog
 theme:
   name: material
-  pallete:
+  palette:
     scheme: slate
     primary: teal
     accent: deep orange
