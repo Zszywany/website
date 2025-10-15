@@ -1,7 +1,13 @@
 site_name: Szyw's World
 site_url: https://blog.szyw.org
+plugins:
+  - blog
 theme:
   name: material
+  features:
+    - navigation.indexes
 nav:
-- Home: index.md
-- About: about.md
+  - Home: index.md
+  - Blog:
+    - blog/index.md
+  - About: about.md
