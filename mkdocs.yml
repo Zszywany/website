@@ -4,6 +4,7 @@ plugins:
   - blog
 theme:
   name: material
+  #custom_dir: overrides
   palette:
     scheme: slate
     primary: teal
@@ -15,3 +16,5 @@ nav:
   - Blog:
     - blog/index.md
   - About me: about.md
+#copyright: Szyw's World  © 2025 by Zszywany is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
+copyright: This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
