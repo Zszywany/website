@@ -2,7 +2,7 @@
 ## Who am I?
 Professionally I am a Business Analyst with prior mechanical engineering experience in the automotive industry. My expertise are PLM and CRM solutions with more recent experience in developing web-apps for the public sector.
 
-I like to dabble in new technologies and am cosplaying as a SysAdmin/DevOps person in my free time. I have a homelab and self-host some of the services my family uses on a daily basis, like Immich and Paperless-ngx.
+I like to dabble in new technologies and am cosplaying as a Sysadmin/DevOps person in my free time. I have a homelab and self-host some of the services my family uses on a daily basis, like Immich and Paperless-ngx.
 
 
 ## What do I plan to achieve here?
