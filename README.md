@@ -7,5 +7,5 @@ Techonologies used:
 
 # TODO
 - [x] Add LICENSE
-- [ ] Set up pipeline for publishing
+- [x] Set up pipeline for publishing
 - [x] Set up repository mirroring to GitHub
