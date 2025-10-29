@@ -1,0 +1,2 @@
+- [ ] dodać licencję w stopce strony!
+- [ ] dodać dane do renderowania podsumowań przy linkowaniu np. na forum (social card?)
