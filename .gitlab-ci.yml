@@ -11,6 +11,6 @@ pages:
       - ~/.cache/ 
   artifacts:
     paths:
-      - site
+      - public
   rules:
     - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
