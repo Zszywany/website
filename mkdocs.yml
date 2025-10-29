@@ -19,3 +19,9 @@ nav:
 #copyright: Szyw's World  © 2025 by Zszywany is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 #copyright: This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 copyright: Szyw's World  © 2025 by Zszywany is licensed under CC BY-NC 4.0.
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Zszywany
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/Zszywany
