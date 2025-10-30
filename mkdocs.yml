@@ -4,6 +4,7 @@ plugins:
   - blog
 theme:
   name: material
+  # If I use overrides for footer I have to craft the full HTML by myself. Not feasible now.
   #custom_dir: overrides
   palette:
     scheme: slate
@@ -16,9 +17,8 @@ nav:
   - Blog:
     - blog/index.md
   - About me: about.md
-#copyright: Szyw's World  © 2025 by Zszywany is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
-#copyright: This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
-copyright: Szyw's World  © 2025 by Zszywany is licensed under CC BY-NC 4.0.
+# Full copyright notice is too long for mobile screen. Hybrid it is.
+copyright: Copyright &copy; 2025 Zszywany. This work is licensed under CC BY-NC 4.0.
 extra:
   social:
     - icon: fontawesome/brands/github
