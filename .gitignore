@@ -1,4 +1,6 @@
-# Ignore build directory
+# Build directory
 site/
-# Ignore cache folder for social cards
+# Cache folder for social cards and other plugins
 .cache/
+# Obsidian puking dotfiles over its "vault"
+docs/blog/posts/.obsidian/
