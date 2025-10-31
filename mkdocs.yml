@@ -4,6 +4,8 @@ site_url: https://blog.szyw.org
 #repo_name: Zszywany/website
 plugins:
   - blog
+  # Do not enable! Social cards plugin requires additional dependencies to be installed for image processing.
+  - social
 theme:
   name: material
   # If I use overrides for footer I have to craft the full HTML by myself. Not feasible now.
