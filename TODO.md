@@ -3,4 +3,5 @@
 - [x] Set up pipeline for publishing
     - [x] Set up repository mirroring to GitHub
 - [x] Add license to footer
-- [ ] dodać dane do renderowania podsumowań przy linkowaniu np. na forum (social card?)
+- [x] Add social cards to be displayed when linking content on other platforms
+    - [ ] Different description for different pages/posts?
