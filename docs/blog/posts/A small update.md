@@ -3,11 +3,11 @@ date:
   created: 2025-10-31
 description: test test test social cards
 ---
-This time I have set out to achieve a few small things. I wanted my blog to feel a little bit more personal with a logo and favicon and on the rare occasion where I would like to share a link to this page, I want to see those nice looking "cards" with title, short exerpt and picture, not an error message about some Open Graph info missing. Yes, I've learned today that Open Graph exists.
+This time I have set out to achieve two small things. I wanted my blog to feel a little bit more personal with a logo and favicon and on the rare occasion where I would like to share a link to this page, I would like to see those nice looking "cards" with title, short excerpt and picture, not an error message about some Open Graph info missing. Yes, I've learned today that Open Graph exists.
 
 I fixed both things. I will, full of shame, admit that I have used an LLM to generate a basic icon/logo which I touched up in GIMP. The generation process was frustrating, though. The "AI" spat out unappealing graphics most of the time. You could immediately tell it was generated, be it style or plain retardation of the imagery.. Was it faster or better than just using an existing design from an icon pack? I am not sure, but no time savings were made.
 
-My second issue was resolved by activating the `social` plugin and modifying the pipeline to install additional depndencies before building the site. After adding the `site_description` social cards started appearing properly when linking to my site.
-What I am missing from the `mkdocs-material` documentaion is a clear indication where I need to put the Open Graph meta information for all pages inside my project. In posts I just yolo'd it and put `description: ` beneath `date: `. Setting this manually for every blog post is not sustainable in the long run.
+My second issue was resolved by activating the `social` plugin and modifying the pipeline to install additional dependencies before building the site. After adding the `site_description` social cards started appearing properly when linking to my site.
+What I am missing from the `mkdocs-material` documentation is a clear indication where I need to put the Open Graph meta information for all pages inside my project. In posts I just yolo'd it and put `description: ` beneath `date: `, but setting this manually for every blog post is not sustainable in the long run.
 
 There probably is an automated way to make the description be the first paragraph of the post. I just haven't found it yet.
