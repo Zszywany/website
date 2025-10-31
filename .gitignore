@@ -1,4 +1,4 @@
 # Ignore build directory
 site/
-# Ignore TODO list
-# TODO.md
+# Ignore cache folder for social cards
+.cache/
