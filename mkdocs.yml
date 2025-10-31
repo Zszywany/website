@@ -1,10 +1,11 @@
 site_name: Szyw's World
 site_url: https://blog.szyw.org
+site_description: Self-hosting shenanigans fueled by chocolate and coffee.
 #repo_url: https://github.com/Zszywany/website
 #repo_name: Zszywany/website
 plugins:
   - blog
-  # Do not enable! Social cards plugin requires additional dependencies to be installed for image processing.
+  # Enabling 'social' plugin requires to 'pip install mkdocs-material[imaging]' to build the site.
   - social
 theme:
   name: material
