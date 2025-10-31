@@ -1,5 +1,7 @@
 site_name: Szyw's World
 site_url: https://blog.szyw.org
+#repo_url: https://github.com/Zszywany/website
+#repo_name: Zszywany/website
 plugins:
   - blog
 theme:
@@ -12,6 +14,11 @@ theme:
     accent: deep orange
   features:
     - navigation.indexes
+    - navigation.instant # skip reloading the header and logo
+  #icon:
+    #logo: material/book-open-page-variant
+  logo: images/logo.png
+  favicon: images/favicon.png
 nav:
   - Home: index.md
   - Blog:
