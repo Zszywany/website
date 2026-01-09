@@ -15,6 +15,7 @@ Eventually I pieced it all together, cherry picking parameters and variables fro
 After that, configuration was maybe not a walk in the park, but a much more pleasant experience. I followed the official guide and set up a child `realm` and `client`, the client being the webapp. 
 
 Basically its:
+
 1. put Keycloak *realm* URL, client ID and secret into webapp
 
 2. put link to webapp into Keycloak
@@ -23,6 +24,7 @@ Basically its:
 Now the accounts got merged? Squashed? Yes, based on the `Username` field in Keycloak, my admin account to the webapp got demoted and I no longer can log in using the old password. Word of caution here to anyone trying this at home. **Do. Make. Backups!**
 
 I started the migration to SSO with the most recent app added to the homelab as it didn't hold any valuable data yet. I did it haphazardly, one might say I yolo'ed it, but in doing so I quickly discovered what the next steps will be:
+
 1. revise the backup strategy (oh God why haven't I done it already?)
 
 2. test disaster recovery
@@ -33,4 +35,4 @@ I started the migration to SSO with the most recent app added to the homelab as 
 
 5. after that, and ONLY after, enable SSO for `immich` and `paperless-ngx`
 
-I'm quite happy with the progress I made, but there is much, much more to learn.
+Progress was made.
