@@ -10,7 +10,7 @@ The years went by and I had dual-booted Ubuntu, and later Arch, a few times, but
 
 Fast forward to today and I find myself daily driving Linux and not only do I not miss Windows, I find my whole computing experience a more pleasant one. This speaks volumes about the state of the Linux desktop. There are a few bugs here and there, but it is not really any better on the Windows side. Have you tried mounting NFS shares on Windows?
 
-I have spent most of my time on Bazzite and it worked pretty well, until I needed more than a browser.. Don't get me wrong, it is a perfectly fine operating system, for daily driving a browser window and playing games. But colouring outside the lines is.. painful. Immutable destkop? Yes, but unfortunately not for me. Adding drives, layering packages, trying to get containers going, all just felt wrong. I was battling the OS on every step.
+I have spent most of my time on Bazzite and it worked pretty well, until I needed more than a browser... Don't get me wrong, it is a perfectly fine operating system, for daily driving a browser window and playing games. But colouring outside the lines is... painful. Immutable destkop? Yes, but unfortunately not for me. Adding drives, layering packages, trying to get containers going, all just felt wrong. I was battling the OS on every step.
 
 Eventually I broke and retried to install CachyOS. This time it worked, maybe a new ISO version or the fact that I no longer had the RTX2060 in the system helped, who knows. I immediately felt the speed. Bazzite was sluggish in comparison. Was it real responsivness or animation tuning? I do not know, but I whole-heartedly agree with the opinion that "perceived performance is performance". My enjoyment of using a Linux desktop increased again.
 
